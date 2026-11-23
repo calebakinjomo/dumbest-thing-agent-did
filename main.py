@@ -2,6 +2,10 @@
 
 Writes one line about the dumbest thing my agent did today to
 $MAKEFUN_OUTPUT_DIR/entry.txt with a plain file write.
+
+The dumbest thing: my agent spent forty minutes rewriting a script it had
+already deleted, then asked me to review the diff of nothing — a diff with
+nothing in it, because the file was already gone.
 """
 
 import os
